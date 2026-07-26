@@ -1,0 +1,2277 @@
+{
+  "korean-history-1": {
+    "miraen": {
+      "title": "미래엔 한국사1",
+      "topics": [
+        {
+          "id": "miraen-korean-history-1-topic-01",
+          "order": 1,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "01 고대 국가의 성장",
+          "title": "선사 시대의 전개와 국가의 형성",
+          "page": 10
+        },
+        {
+          "id": "miraen-korean-history-1-topic-02",
+          "order": 2,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "01 고대 국가의 성장",
+          "title": "삼국, 가야의 발전과 신라의 삼국 통일",
+          "page": 12
+        },
+        {
+          "id": "miraen-korean-history-1-topic-03",
+          "order": 3,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "01 고대 국가의 성장",
+          "title": "남북국의 성립과 발전",
+          "page": 16
+        },
+        {
+          "id": "miraen-korean-history-1-topic-04",
+          "order": 4,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "02 고려의 통치 체제",
+          "title": "고려의 성립과 통치 체제의 정비",
+          "page": 20
+        },
+        {
+          "id": "miraen-korean-history-1-topic-05",
+          "order": 5,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "02 고려의 통치 체제",
+          "title": "문벌 사회 형성과 동요",
+          "page": 24
+        },
+        {
+          "id": "miraen-korean-history-1-topic-06",
+          "order": 6,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "02 고려의 통치 체제",
+          "title": "무신의 집권과 농민, 천민의 봉기",
+          "page": 27
+        },
+        {
+          "id": "miraen-korean-history-1-topic-07",
+          "order": 7,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "02 고려의 통치 체제",
+          "title": "원의 간섭과 공민왕의 개혁 정치",
+          "page": 29
+        },
+        {
+          "id": "miraen-korean-history-1-topic-08",
+          "order": 8,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "03 조선의 성립과 발전",
+          "title": "조선의 건국과 국가 기틀의 확립",
+          "page": 32
+        },
+        {
+          "id": "miraen-korean-history-1-topic-09",
+          "order": 9,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "03 조선의 성립과 발전",
+          "title": "통치 체제의 정비",
+          "page": 34
+        },
+        {
+          "id": "miraen-korean-history-1-topic-10",
+          "order": 10,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "03 조선의 성립과 발전",
+          "title": "사림의 성장과 붕당의 형성",
+          "page": 36
+        },
+        {
+          "id": "miraen-korean-history-1-topic-11",
+          "order": 11,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "03 조선의 성립과 발전",
+          "title": "왜란과 호란",
+          "page": 38
+        },
+        {
+          "id": "miraen-korean-history-1-topic-12",
+          "order": 12,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "04 조선 후기의 변화",
+          "title": "정치 운영의 변화",
+          "page": 42
+        },
+        {
+          "id": "miraen-korean-history-1-topic-13",
+          "order": 13,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "04 조선 후기의 변화",
+          "title": "탕평 정치",
+          "page": 44
+        },
+        {
+          "id": "miraen-korean-history-1-topic-14",
+          "order": 14,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "04 조선 후기의 변화",
+          "title": "세도 정치의 폐단과 농민 봉기",
+          "page": 46
+        },
+        {
+          "id": "miraen-korean-history-1-topic-15",
+          "order": 15,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "04 조선 후기의 변화",
+          "title": "흥선 대원군의 개혁 정치",
+          "page": 48
+        },
+        {
+          "id": "miraen-korean-history-1-topic-16",
+          "order": 16,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "01 국제 관계와 대외 교류",
+          "title": "고대의 국제 관계와 대외 교류",
+          "page": 54
+        },
+        {
+          "id": "miraen-korean-history-1-topic-17",
+          "order": 17,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "01 국제 관계와 대외 교류",
+          "title": "고려의 국제 관계와 대외 교류",
+          "page": 56
+        },
+        {
+          "id": "miraen-korean-history-1-topic-18",
+          "order": 18,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "01 국제 관계와 대외 교류",
+          "title": "조선 전기의 국제 관계와 대외 교류",
+          "page": 58
+        },
+        {
+          "id": "miraen-korean-history-1-topic-19",
+          "order": 19,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "01 국제 관계와 대외 교류",
+          "title": "조선 후기의 국제 관계와 대외 교류",
+          "page": 60
+        },
+        {
+          "id": "miraen-korean-history-1-topic-20",
+          "order": 20,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "02 수취 체제와 경제생활",
+          "title": "고대의 수취 체제와 경제생활",
+          "page": 64
+        },
+        {
+          "id": "miraen-korean-history-1-topic-21",
+          "order": 21,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "02 수취 체제와 경제생활",
+          "title": "고려의 전시과 체제와 경제생활",
+          "page": 66
+        },
+        {
+          "id": "miraen-korean-history-1-topic-22",
+          "order": 22,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "02 수취 체제와 경제생활",
+          "title": "조선의 과전법 체제와 경제생활",
+          "page": 68
+        },
+        {
+          "id": "miraen-korean-history-1-topic-23",
+          "order": 23,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "02 수취 체제와 경제생활",
+          "title": "수취 체제의 개편과 상품 화폐 경제의 발달",
+          "page": 70
+        },
+        {
+          "id": "miraen-korean-history-1-topic-24",
+          "order": 24,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "03 신분제에 기반한 사회 구조",
+          "title": "신분제의 성립과 골품제 사회",
+          "page": 76
+        },
+        {
+          "id": "miraen-korean-history-1-topic-25",
+          "order": 25,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "03 신분제에 기반한 사회 구조",
+          "title": "고려 양천제 사회",
+          "page": 78
+        },
+        {
+          "id": "miraen-korean-history-1-topic-26",
+          "order": 26,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "03 신분제에 기반한 사회 구조",
+          "title": "양반 중심의 사회 구조",
+          "page": 80
+        },
+        {
+          "id": "miraen-korean-history-1-topic-27",
+          "order": 27,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "03 신분제에 기반한 사회 구조",
+          "title": "조선 후기의 신분제 동요",
+          "page": 82
+        },
+        {
+          "id": "miraen-korean-history-1-topic-28",
+          "order": 28,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "04 다양한 사상과 문화 교류",
+          "title": "고대의 사상과 문화 교류",
+          "page": 86
+        },
+        {
+          "id": "miraen-korean-history-1-topic-29",
+          "order": 29,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "04 다양한 사상과 문화 교류",
+          "title": "고려의 사상과 문화 교류",
+          "page": 89
+        },
+        {
+          "id": "miraen-korean-history-1-topic-30",
+          "order": 30,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "04 다양한 사상과 문화 교류",
+          "title": "조선 전기의 사상과 문화 교류",
+          "page": 92
+        },
+        {
+          "id": "miraen-korean-history-1-topic-31",
+          "order": 31,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "04 다양한 사상과 문화 교류",
+          "title": "조선 후기의 사상과 문화 교류",
+          "page": 94
+        },
+        {
+          "id": "miraen-korean-history-1-topic-32",
+          "order": 32,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "01 국제 질서의 변동과 개항",
+          "title": "제국주의의 확산과 동아시아의 변동",
+          "page": 102
+        },
+        {
+          "id": "miraen-korean-history-1-topic-33",
+          "order": 33,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "01 국제 질서의 변동과 개항",
+          "title": "통상 수교 거부 정책과 양요",
+          "page": 104
+        },
+        {
+          "id": "miraen-korean-history-1-topic-34",
+          "order": 34,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "01 국제 질서의 변동과 개항",
+          "title": "개항과 근대적 조약 체제",
+          "page": 106
+        },
+        {
+          "id": "miraen-korean-history-1-topic-35",
+          "order": 35,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "개화 정책의 추진과 반발",
+          "page": 110
+        },
+        {
+          "id": "miraen-korean-history-1-topic-36",
+          "order": 36,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "갑신정변과 열강의 대립",
+          "page": 113
+        },
+        {
+          "id": "miraen-korean-history-1-topic-37",
+          "order": 37,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "동학 농민 운동",
+          "page": 116
+        },
+        {
+          "id": "miraen-korean-history-1-topic-38",
+          "order": 38,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "갑오개혁",
+          "page": 120
+        },
+        {
+          "id": "miraen-korean-history-1-topic-39",
+          "order": 39,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "독립 협회",
+          "page": 122
+        },
+        {
+          "id": "miraen-korean-history-1-topic-40",
+          "order": 40,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "대한 제국과 광무개혁",
+          "page": 125
+        },
+        {
+          "id": "miraen-korean-history-1-topic-41",
+          "order": 41,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "03 국권 침탈과 국권 수호 운동",
+          "title": "일제의 침략과 국권 피탈",
+          "page": 128
+        },
+        {
+          "id": "miraen-korean-history-1-topic-42",
+          "order": 42,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "03 국권 침탈과 국권 수호 운동",
+          "title": "항일 의병 전쟁과 의열 투쟁",
+          "page": 132
+        },
+        {
+          "id": "miraen-korean-history-1-topic-43",
+          "order": 43,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "03 국권 침탈과 국권 수호 운동",
+          "title": "애국 계몽 운동",
+          "page": 135
+        },
+        {
+          "id": "miraen-korean-history-1-topic-44",
+          "order": 44,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "04 사회, 경제의 변화와 문화 변동",
+          "title": "개항 이후 열강의 침탈과 경제 변화",
+          "page": 138
+        },
+        {
+          "id": "miraen-korean-history-1-topic-45",
+          "order": 45,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "04 사회, 경제의 변화와 문화 변동",
+          "title": "경제적 구국 운동",
+          "page": 141
+        },
+        {
+          "id": "miraen-korean-history-1-topic-46",
+          "order": 46,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "04 사회, 경제의 변화와 문화 변동",
+          "title": "개항 이후 근대 문물의 수용과 사회 변화",
+          "page": 144
+        }
+      ]
+    },
+    "visang": {
+      "title": "비상 한국사1",
+      "topics": [
+        {
+          "id": "visang-korean-history-1-topic-01",
+          "order": 1,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "01 고대 국가의 성장",
+          "title": "만주와 한반도 일대에 고대 국가가 성립하다",
+          "page": 8
+        },
+        {
+          "id": "visang-korean-history-1-topic-02",
+          "order": 2,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "01 고대 국가의 성장",
+          "title": "삼국이 중앙 집권적 고대 국가로 발전하다",
+          "page": 11
+        },
+        {
+          "id": "visang-korean-history-1-topic-03",
+          "order": 3,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "01 고대 국가의 성장",
+          "title": "통일 신라와 발해가 발전하다",
+          "page": 14
+        },
+        {
+          "id": "visang-korean-history-1-topic-04",
+          "order": 4,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "02 고려의 통치 체제와 정치 변동",
+          "title": "고려가 후삼국을 통일하고 통치 체제를 정비하다",
+          "page": 18
+        },
+        {
+          "id": "visang-korean-history-1-topic-05",
+          "order": 5,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "02 고려의 통치 체제와 정치 변동",
+          "title": "문벌 사회가 무너지고 무신 정권이 성립하다",
+          "page": 21
+        },
+        {
+          "id": "visang-korean-history-1-topic-06",
+          "order": 6,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "02 고려의 통치 체제와 정치 변동",
+          "title": "원 간섭기 새로운 정치 세력이 성장하다",
+          "page": 24
+        },
+        {
+          "id": "visang-korean-history-1-topic-07",
+          "order": 7,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "03 조선 사회의 성립과 발전",
+          "title": "조선이 유교 이념에 따라 통치 체제를 정비하다",
+          "page": 28
+        },
+        {
+          "id": "visang-korean-history-1-topic-08",
+          "order": 8,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "03 조선 사회의 성립과 발전",
+          "title": "사림이 성장하여 붕당 정치를 운영하다",
+          "page": 32
+        },
+        {
+          "id": "visang-korean-history-1-topic-09",
+          "order": 9,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "03 조선 사회의 성립과 발전",
+          "title": "왜란과 호란이 일어나다",
+          "page": 34
+        },
+        {
+          "id": "visang-korean-history-1-topic-10",
+          "order": 10,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "04 조선 후기의 새로운 흐름",
+          "title": "양 난 이후 정치 운영이 변하다",
+          "page": 36
+        },
+        {
+          "id": "visang-korean-history-1-topic-11",
+          "order": 11,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "04 조선 후기의 새로운 흐름",
+          "title": "탕평 정치와 세도 정치가 행해지다",
+          "page": 38
+        },
+        {
+          "id": "visang-korean-history-1-topic-12",
+          "order": 12,
+          "unit": "Ⅰ 근대 이전 한국사의 이해",
+          "group": "04 조선 후기의 새로운 흐름",
+          "title": "흥선 대원군이 통치 제도를 다시 정비하다",
+          "page": 42
+        },
+        {
+          "id": "visang-korean-history-1-topic-13",
+          "order": 13,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "01 국제 관계와 대외 교류",
+          "title": "고대 국가들이 국제 관계를 형성하다",
+          "page": 48
+        },
+        {
+          "id": "visang-korean-history-1-topic-14",
+          "order": 14,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "01 국제 관계와 대외 교류",
+          "title": "고려가 다원적 국제 질서를 형성하다",
+          "page": 51
+        },
+        {
+          "id": "visang-korean-history-1-topic-15",
+          "order": 15,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "01 국제 관계와 대외 교류",
+          "title": "조선이 사대교린 정책을 취하다",
+          "page": 54
+        },
+        {
+          "id": "visang-korean-history-1-topic-16",
+          "order": 16,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "02 수취 체제와 경제생활",
+          "title": "고대 국가의 경제생활은 어떠하였을까?",
+          "page": 58
+        },
+        {
+          "id": "visang-korean-history-1-topic-17",
+          "order": 17,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "02 수취 체제와 경제생활",
+          "title": "고려가 토지 제도와 수취 제도를 운영하다",
+          "page": 60
+        },
+        {
+          "id": "visang-korean-history-1-topic-18",
+          "order": 18,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "02 수취 체제와 경제생활",
+          "title": "조선의 수취 제도가 변화하다",
+          "page": 62
+        },
+        {
+          "id": "visang-korean-history-1-topic-19",
+          "order": 19,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "03 신분제와 사회 구조",
+          "title": "고대 사회에서 신분제가 형성되다",
+          "page": 66
+        },
+        {
+          "id": "visang-korean-history-1-topic-20",
+          "order": 20,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "03 신분제와 사회 구조",
+          "title": "고려의 사회 모습은 어떠하였을까?",
+          "page": 68
+        },
+        {
+          "id": "visang-korean-history-1-topic-21",
+          "order": 21,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "03 신분제와 사회 구조",
+          "title": "조선의 양반 중심 질서가 양 난 이후 변하다",
+          "page": 71
+        },
+        {
+          "id": "visang-korean-history-1-topic-22",
+          "order": 22,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "04 사상과 문화",
+          "title": "고대 국가에서 다양한 사상과 문화가 발달하다",
+          "page": 74
+        },
+        {
+          "id": "visang-korean-history-1-topic-23",
+          "order": 23,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "04 사상과 문화",
+          "title": "고려 시대에 종교와 학문이 발달하다",
+          "page": 78
+        },
+        {
+          "id": "visang-korean-history-1-topic-24",
+          "order": 24,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "04 사상과 문화",
+          "title": "조선 시대에 새로운 문화 경향이 나타나다",
+          "page": 81
+        },
+        {
+          "id": "visang-korean-history-1-topic-25",
+          "order": 25,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "05 근대 이전 한국사 주제 탐구",
+          "title": "한국사 주제 탐구의 방법",
+          "page": 86
+        },
+        {
+          "id": "visang-korean-history-1-topic-26",
+          "order": 26,
+          "unit": "Ⅱ 근대 이전 한국사의 탐구",
+          "group": "05 근대 이전 한국사 주제 탐구",
+          "title": "한국사 주제 탐구하기",
+          "page": 88
+        },
+        {
+          "id": "visang-korean-history-1-topic-27",
+          "order": 27,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "01 국제 질서의 변동과 개항",
+          "title": "조선이 서구의 침략에 맞서다",
+          "page": 96
+        },
+        {
+          "id": "visang-korean-history-1-topic-28",
+          "order": 28,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "01 국제 질서의 변동과 개항",
+          "title": "강화도 조약으로 조선이 개항하다",
+          "page": 101
+        },
+        {
+          "id": "visang-korean-history-1-topic-29",
+          "order": 29,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "개화 정책을 추진하다",
+          "page": 106
+        },
+        {
+          "id": "visang-korean-history-1-topic-30",
+          "order": 30,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "갑신정변이 일어나고 열강의 대립이 커지다",
+          "page": 109
+        },
+        {
+          "id": "visang-korean-history-1-topic-31",
+          "order": 31,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "동학 농민 운동이 일어나다",
+          "page": 112
+        },
+        {
+          "id": "visang-korean-history-1-topic-32",
+          "order": 32,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "갑오개혁을 추진하다",
+          "page": 117
+        },
+        {
+          "id": "visang-korean-history-1-topic-33",
+          "order": 33,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "02 근대 국가 수립을 위한 노력",
+          "title": "독립 협회를 설립하고 대한 제국을 수립하다",
+          "page": 121
+        },
+        {
+          "id": "visang-korean-history-1-topic-34",
+          "order": 34,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "03 사회, 경제 변화와 문화 변동",
+          "title": "열강의 경제 침탈이 가속화하다",
+          "page": 126
+        },
+        {
+          "id": "visang-korean-history-1-topic-35",
+          "order": 35,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "03 사회, 경제 변화와 문화 변동",
+          "title": "상공업 진흥과 경제 주권 수호 운동에 힘쓰다",
+          "page": 130
+        },
+        {
+          "id": "visang-korean-history-1-topic-36",
+          "order": 36,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "03 사회, 경제 변화와 문화 변동",
+          "title": "서구 문물의 도입으로 사회, 문화가 변하다",
+          "page": 133
+        },
+        {
+          "id": "visang-korean-history-1-topic-37",
+          "order": 37,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "03 사회, 경제 변화와 문화 변동",
+          "title": "국민 의식과 민권 의식이 확산하다",
+          "page": 137
+        },
+        {
+          "id": "visang-korean-history-1-topic-38",
+          "order": 38,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "04 국권 침탈과 국권 수호 운동",
+          "title": "일본이 한국을 강제로 병합하다",
+          "page": 142
+        },
+        {
+          "id": "visang-korean-history-1-topic-39",
+          "order": 39,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "04 국권 침탈과 국권 수호 운동",
+          "title": "항일 의병 활동과 의열 투쟁을 전개하다",
+          "page": 147
+        },
+        {
+          "id": "visang-korean-history-1-topic-40",
+          "order": 40,
+          "unit": "Ⅲ 근대 국가 수립의 노력",
+          "group": "04 국권 침탈과 국권 수호 운동",
+          "title": "애국 계몽 운동이 일어나다",
+          "page": 150
+        }
+      ]
+    }
+  },
+  "korean-history-2": {
+    "miraen": {
+      "title": "미래엔 한국사2",
+      "topics": [
+        {
+          "id": "miraen-korean-history-2-topic-01",
+          "order": 1,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "01 제국주의 질서와 일제의 식민 통치 정책",
+          "title": "20세기 전반의 세계",
+          "page": 10
+        },
+        {
+          "id": "miraen-korean-history-2-topic-02",
+          "order": 2,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "01 제국주의 질서와 일제의 식민 통치 정책",
+          "title": "무단 통치와 수탈 체제의 확립",
+          "page": 12
+        },
+        {
+          "id": "miraen-korean-history-2-topic-03",
+          "order": 3,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "01 제국주의 질서와 일제의 식민 통치 정책",
+          "title": "민족 분열 통치와 경제 수탈의 확대",
+          "page": 14
+        },
+        {
+          "id": "miraen-korean-history-2-topic-04",
+          "order": 4,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "01 제국주의 질서와 일제의 식민 통치 정책",
+          "title": "민족 말살 통치와 전시 동원 체제",
+          "page": 16
+        },
+        {
+          "id": "miraen-korean-history-2-topic-05",
+          "order": 5,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "02 3·1 운동과 대한민국 임시 정부",
+          "title": "1910년대 국내외 독립운동",
+          "page": 20
+        },
+        {
+          "id": "miraen-korean-history-2-topic-06",
+          "order": 6,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "02 3·1 운동과 대한민국 임시 정부",
+          "title": "3·1 운동의 전개와 의의",
+          "page": 22
+        },
+        {
+          "id": "miraen-korean-history-2-topic-07",
+          "order": 7,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "02 3·1 운동과 대한민국 임시 정부",
+          "title": "대한민국 임시 정부의 수립과 활동",
+          "page": 26
+        },
+        {
+          "id": "miraen-korean-history-2-topic-08",
+          "order": 8,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "무장 독립 전쟁",
+          "page": 30
+        },
+        {
+          "id": "miraen-korean-history-2-topic-09",
+          "order": 9,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "의열 투쟁",
+          "page": 34
+        },
+        {
+          "id": "miraen-korean-history-2-topic-10",
+          "order": 10,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "실력 양성 운동",
+          "page": 36
+        },
+        {
+          "id": "miraen-korean-history-2-topic-11",
+          "order": 11,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "농민 운동과 노동 운동",
+          "page": 38
+        },
+        {
+          "id": "miraen-korean-history-2-topic-12",
+          "order": 12,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "학생 항일 운동",
+          "page": 40
+        },
+        {
+          "id": "miraen-korean-history-2-topic-13",
+          "order": 13,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "민족 유일당 운동과 신간회",
+          "page": 42
+        },
+        {
+          "id": "miraen-korean-history-2-topic-14",
+          "order": 14,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "04 사회, 문화의 변화와 대중 운동",
+          "title": "사회 구조와 생활의 변화",
+          "page": 46
+        },
+        {
+          "id": "miraen-korean-history-2-topic-15",
+          "order": 15,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "04 사회, 문화의 변화와 대중 운동",
+          "title": "사회적 차별을 철폐하려는 움직임",
+          "page": 50
+        },
+        {
+          "id": "miraen-korean-history-2-topic-16",
+          "order": 16,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "04 사회, 문화의 변화와 대중 운동",
+          "title": "민족 문화 수호를 위한 노력",
+          "page": 52
+        },
+        {
+          "id": "miraen-korean-history-2-topic-17",
+          "order": 17,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "05 독립 국가 건설 노력",
+          "title": "항일 전선 통합 노력과 무장 투쟁",
+          "page": 56
+        },
+        {
+          "id": "miraen-korean-history-2-topic-18",
+          "order": 18,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "05 독립 국가 건설 노력",
+          "title": "광복을 위한 노력과 건국 준비 활동",
+          "page": 58
+        },
+        {
+          "id": "miraen-korean-history-2-topic-19",
+          "order": 19,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "01 냉전 체제와 대한민국 정부 수립",
+          "title": "냉전 체제의 형성",
+          "page": 66
+        },
+        {
+          "id": "miraen-korean-history-2-topic-20",
+          "order": 20,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "01 냉전 체제와 대한민국 정부 수립",
+          "title": "광복과 국토의 분단",
+          "page": 68
+        },
+        {
+          "id": "miraen-korean-history-2-topic-21",
+          "order": 21,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "01 냉전 체제와 대한민국 정부 수립",
+          "title": "통일 정부 수립 운동",
+          "page": 70
+        },
+        {
+          "id": "miraen-korean-history-2-topic-22",
+          "order": 22,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "01 냉전 체제와 대한민국 정부 수립",
+          "title": "대한민국 정부 수립",
+          "page": 73
+        },
+        {
+          "id": "miraen-korean-history-2-topic-23",
+          "order": 23,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "02 6·25 전쟁과 남북 분단의 고착화",
+          "title": "6·25 전쟁과 그 영향",
+          "page": 78
+        },
+        {
+          "id": "miraen-korean-history-2-topic-24",
+          "order": 24,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "02 6·25 전쟁과 남북 분단의 고착화",
+          "title": "남북의 정치, 경제 변화와 분단의 고착화",
+          "page": 82
+        },
+        {
+          "id": "miraen-korean-history-2-topic-25",
+          "order": 25,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "4·19 혁명",
+          "page": 86
+        },
+        {
+          "id": "miraen-korean-history-2-topic-26",
+          "order": 26,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "5·16 군사 정변과 박정희 정부의 성립",
+          "page": 90
+        },
+        {
+          "id": "miraen-korean-history-2-topic-27",
+          "order": 27,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "유신 체제의 성립과 민주화 운동",
+          "page": 92
+        },
+        {
+          "id": "miraen-korean-history-2-topic-28",
+          "order": 28,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "5·18 민주화 운동",
+          "page": 94
+        },
+        {
+          "id": "miraen-korean-history-2-topic-29",
+          "order": 29,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "6월 민주 항쟁",
+          "page": 97
+        },
+        {
+          "id": "miraen-korean-history-2-topic-30",
+          "order": 30,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "04 산업화의 성과와 사회, 문화의 변화",
+          "title": "산업화와 경제 성장",
+          "page": 100
+        },
+        {
+          "id": "miraen-korean-history-2-topic-31",
+          "order": 31,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "04 산업화의 성과와 사회, 문화의 변화",
+          "title": "산업화에 따른 문제점과 해결 노력",
+          "page": 103
+        },
+        {
+          "id": "miraen-korean-history-2-topic-32",
+          "order": 32,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "04 산업화의 성과와 사회, 문화의 변화",
+          "title": "산업화에 따른 문화 변동과 일상생활의 변화",
+          "page": 106
+        },
+        {
+          "id": "miraen-korean-history-2-topic-33",
+          "order": 33,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "01 6월 민주 항쟁 이후 민주화 과정",
+          "title": "냉전의 해체와 국제 질서의 재편",
+          "page": 114
+        },
+        {
+          "id": "miraen-korean-history-2-topic-34",
+          "order": 34,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "01 6월 민주 항쟁 이후 민주화 과정",
+          "title": "평화적 정권 교체",
+          "page": 116
+        },
+        {
+          "id": "miraen-korean-history-2-topic-35",
+          "order": 35,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "01 6월 민주 항쟁 이후 민주화 과정",
+          "title": "시민 사회의 성장",
+          "page": 120
+        },
+        {
+          "id": "miraen-korean-history-2-topic-36",
+          "order": 36,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "02 외환 위기 극복과 사회, 문화 변동",
+          "title": "세계 경제 변동과 외환 위기 극복",
+          "page": 124
+        },
+        {
+          "id": "miraen-korean-history-2-topic-37",
+          "order": 37,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "02 외환 위기 극복과 사회, 문화 변동",
+          "title": "외환 위기 이후 사회, 문화의 변동",
+          "page": 128
+        },
+        {
+          "id": "miraen-korean-history-2-topic-38",
+          "order": 38,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "03 한반도 분단 극복과 동아시아 평화를 위한 노력",
+          "title": "북한의 변화와 오늘날의 실상",
+          "page": 132
+        },
+        {
+          "id": "miraen-korean-history-2-topic-39",
+          "order": 39,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "03 한반도 분단 극복과 동아시아 평화를 위한 노력",
+          "title": "한반도 평화와 통일을 위한 노력",
+          "page": 134
+        },
+        {
+          "id": "miraen-korean-history-2-topic-40",
+          "order": 40,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "03 한반도 분단 극복과 동아시아 평화를 위한 노력",
+          "title": "동아시아 평화를 위한 노력",
+          "page": 138
+        }
+      ]
+    },
+    "visang": {
+      "title": "비상 한국사2",
+      "topics": [
+        {
+          "id": "visang-korean-history-2-topic-01",
+          "order": 1,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "01 제국주의 질서와 일제의 식민 통치 정책",
+          "title": "일제가 무단 통치를 실시하다",
+          "page": 8
+        },
+        {
+          "id": "visang-korean-history-2-topic-02",
+          "order": 2,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "01 제국주의 질서와 일제의 식민 통치 정책",
+          "title": "기만적인 ‘문화 정치’를 실시하다",
+          "page": 11
+        },
+        {
+          "id": "visang-korean-history-2-topic-03",
+          "order": 3,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "01 제국주의 질서와 일제의 식민 통치 정책",
+          "title": "일제가 민족 말살 통치를 실시하다",
+          "page": 14
+        },
+        {
+          "id": "visang-korean-history-2-topic-04",
+          "order": 4,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "02 경제 구조의 변화와 경제생활",
+          "title": "일제가 토지 조사 사업을 실시하다",
+          "page": 18
+        },
+        {
+          "id": "visang-korean-history-2-topic-05",
+          "order": 5,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "02 경제 구조의 변화와 경제생활",
+          "title": "일제가 산미 증식 계획을 추진하다",
+          "page": 21
+        },
+        {
+          "id": "visang-korean-history-2-topic-06",
+          "order": 6,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "02 경제 구조의 변화와 경제생활",
+          "title": "일제가 한국에서 전쟁 물자를 수탈하다",
+          "page": 23
+        },
+        {
+          "id": "visang-korean-history-2-topic-07",
+          "order": 7,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "02 경제 구조의 변화와 경제생활",
+          "title": "국외로 이주한 동포들은 어떻게 살았을까?",
+          "page": 26
+        },
+        {
+          "id": "visang-korean-history-2-topic-08",
+          "order": 8,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "3·1 운동을 전개하다",
+          "page": 28
+        },
+        {
+          "id": "visang-korean-history-2-topic-09",
+          "order": 9,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "대한민국 임시 정부를 수립하다",
+          "page": 34
+        },
+        {
+          "id": "visang-korean-history-2-topic-10",
+          "order": 10,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "국외에서 무장 독립 투쟁을 전개하다",
+          "page": 38
+        },
+        {
+          "id": "visang-korean-history-2-topic-11",
+          "order": 11,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "국내에서 실력 양성 운동을 펼치다",
+          "page": 42
+        },
+        {
+          "id": "visang-korean-history-2-topic-12",
+          "order": 12,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "03 민족 운동의 전개와 분화",
+          "title": "민족 유일당 운동을 전개하다",
+          "page": 45
+        },
+        {
+          "id": "visang-korean-history-2-topic-13",
+          "order": 13,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "04 사회, 문화의 변화와 대중운동",
+          "title": "도시와 농촌이 변화하다",
+          "page": 48
+        },
+        {
+          "id": "visang-korean-history-2-topic-14",
+          "order": 14,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "04 사회, 문화의 변화와 대중운동",
+          "title": "다양한 사회 운동이 일어나다",
+          "page": 52
+        },
+        {
+          "id": "visang-korean-history-2-topic-15",
+          "order": 15,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "04 사회, 문화의 변화와 대중운동",
+          "title": "민족 문화 수호 운동을 전개하다",
+          "page": 57
+        },
+        {
+          "id": "visang-korean-history-2-topic-16",
+          "order": 16,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "04 사회, 문화의 변화와 대중운동",
+          "title": "대중문화가 유행하고 문예 활동을 전개하다",
+          "page": 60
+        },
+        {
+          "id": "visang-korean-history-2-topic-17",
+          "order": 17,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "05 독립 국가 건설 노력",
+          "title": "만주에서 항일 연합 전선을 만들어 투쟁하다",
+          "page": 62
+        },
+        {
+          "id": "visang-korean-history-2-topic-18",
+          "order": 18,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "05 독립 국가 건설 노력",
+          "title": "중국 관내에서 독립운동을 전개하다",
+          "page": 64
+        },
+        {
+          "id": "visang-korean-history-2-topic-19",
+          "order": 19,
+          "unit": "Ⅰ 일제 식민 통치와 민족 운동",
+          "group": "05 독립 국가 건설 노력",
+          "title": "건국을 준비하다",
+          "page": 66
+        },
+        {
+          "id": "visang-korean-history-2-topic-20",
+          "order": 20,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "01 냉전 체제와 대한민국 정부 수립",
+          "title": "8·15 광복과 냉전의 시대를 맞이하다",
+          "page": 76
+        },
+        {
+          "id": "visang-korean-history-2-topic-21",
+          "order": 21,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "01 냉전 체제와 대한민국 정부 수립",
+          "title": "통일 정부를 수립하려고 노력하다",
+          "page": 80
+        },
+        {
+          "id": "visang-korean-history-2-topic-22",
+          "order": 22,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "01 냉전 체제와 대한민국 정부 수립",
+          "title": "대한민국 정부를 수립하다",
+          "page": 83
+        },
+        {
+          "id": "visang-korean-history-2-topic-23",
+          "order": 23,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "01 냉전 체제와 대한민국 정부 수립",
+          "title": "친일파 청산과 농지 개혁을 추진하다",
+          "page": 86
+        },
+        {
+          "id": "visang-korean-history-2-topic-24",
+          "order": 24,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "02 6·25 전쟁과 남북 분단의 고착화",
+          "title": "북한이 전쟁을 일으키다",
+          "page": 88
+        },
+        {
+          "id": "visang-korean-history-2-topic-25",
+          "order": 25,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "02 6·25 전쟁과 남북 분단의 고착화",
+          "title": "분단이 고착화되고 독재 체제가 강화되다",
+          "page": 91
+        },
+        {
+          "id": "visang-korean-history-2-topic-26",
+          "order": 26,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "02 6·25 전쟁과 남북 분단의 고착화",
+          "title": "전후 복구 사업을 전개하다",
+          "page": 93
+        },
+        {
+          "id": "visang-korean-history-2-topic-27",
+          "order": 27,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "4·19 혁명이 일어나다",
+          "page": 96
+        },
+        {
+          "id": "visang-korean-history-2-topic-28",
+          "order": 28,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "군사 정변으로 새로운 정부가 수립되다",
+          "page": 99
+        },
+        {
+          "id": "visang-korean-history-2-topic-29",
+          "order": 29,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "유신 체제가 성립하다",
+          "page": 102
+        },
+        {
+          "id": "visang-korean-history-2-topic-30",
+          "order": 30,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "5·18 민주화 운동이 일어나다",
+          "page": 104
+        },
+        {
+          "id": "visang-korean-history-2-topic-31",
+          "order": 31,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "03 민주화를 위한 노력",
+          "title": "6월 민주 항쟁이 일어나다",
+          "page": 108
+        },
+        {
+          "id": "visang-korean-history-2-topic-32",
+          "order": 32,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "04 산업화의 성과와 사회, 환경 문제",
+          "title": "산업화로 경제가 성장하다",
+          "page": 110
+        },
+        {
+          "id": "visang-korean-history-2-topic-33",
+          "order": 33,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "04 산업화의 성과와 사회, 환경 문제",
+          "title": "산업화로 사회, 환경 문제가 나타나다",
+          "page": 114
+        },
+        {
+          "id": "visang-korean-history-2-topic-34",
+          "order": 34,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "05 문화 변동과 일상생활",
+          "title": "산업화로 일상생활이 변화하다",
+          "page": 118
+        },
+        {
+          "id": "visang-korean-history-2-topic-35",
+          "order": 35,
+          "unit": "Ⅱ 대한민국의 발전",
+          "group": "05 문화 변동과 일상생활",
+          "title": "언론과 대중문화가 성장하다",
+          "page": 120
+        },
+        {
+          "id": "visang-korean-history-2-topic-36",
+          "order": 36,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "01 6월 민주 항쟁 이후 민주화 과정",
+          "title": "민주화가 진전되다",
+          "page": 128
+        },
+        {
+          "id": "visang-korean-history-2-topic-37",
+          "order": 37,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "01 6월 민주 항쟁 이후 민주화 과정",
+          "title": "시민 사회가 성장하다",
+          "page": 131
+        },
+        {
+          "id": "visang-korean-history-2-topic-38",
+          "order": 38,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "02 외환 위기의 극복과 사회, 문화 변동",
+          "title": "세계화에 따라 한국 경제가 변화하다",
+          "page": 134
+        },
+        {
+          "id": "visang-korean-history-2-topic-39",
+          "order": 39,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "02 외환 위기의 극복과 사회, 문화 변동",
+          "title": "우리 사회가 변화하다",
+          "page": 138
+        },
+        {
+          "id": "visang-korean-history-2-topic-40",
+          "order": 40,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "03 한반도 분단 극복과 동아시아 평화를 위한 노력",
+          "title": "북한 사회가 변화하다",
+          "page": 142
+        },
+        {
+          "id": "visang-korean-history-2-topic-41",
+          "order": 41,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "03 한반도 분단 극복과 동아시아 평화를 위한 노력",
+          "title": "분단을 극복하기 위해 노력하다",
+          "page": 145
+        },
+        {
+          "id": "visang-korean-history-2-topic-42",
+          "order": 42,
+          "unit": "Ⅲ 오늘날의 대한민국",
+          "group": "03 한반도 분단 극복과 동아시아 평화를 위한 노력",
+          "title": "동아시아 갈등을 해결하려고 노력하다",
+          "page": 149
+        }
+      ]
+    }
+  },
+  "world-history": {
+    "visang": {
+      "title": "비상 세계사",
+      "topics": [
+        {
+          "id": "visang-world-history-topic-01",
+          "order": 1,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "01 현생 인류와 문명의 형성",
+          "title": "현생 인류와 선사 시대",
+          "page": 9
+        },
+        {
+          "id": "visang-world-history-topic-02",
+          "order": 2,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "01 현생 인류와 문명의 형성",
+          "title": "세계 여러 지역의 고대 문명",
+          "page": 12
+        },
+        {
+          "id": "visang-world-history-topic-03",
+          "order": 3,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "02 인도와 동아시아 세계의 발전",
+          "title": "인도 세계의 형성과 발전",
+          "page": 23
+        },
+        {
+          "id": "visang-world-history-topic-04",
+          "order": 4,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "02 인도와 동아시아 세계의 발전",
+          "title": "동아시아 세계의 형성과 발전",
+          "page": 28
+        },
+        {
+          "id": "visang-world-history-topic-05",
+          "order": 5,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "02 인도와 동아시아 세계의 발전",
+          "title": "동아시아 문화권의 형성",
+          "page": 32
+        },
+        {
+          "id": "visang-world-history-topic-06",
+          "order": 6,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "03 서아시아, 지중해, 유럽 세계의 형성과 발전",
+          "title": "서아시아 세계의 통일과 발전",
+          "page": 41
+        },
+        {
+          "id": "visang-world-history-topic-07",
+          "order": 7,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "03 서아시아, 지중해, 유럽 세계의 형성과 발전",
+          "title": "이슬람 세계의 형성",
+          "page": 43
+        },
+        {
+          "id": "visang-world-history-topic-08",
+          "order": 8,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "03 서아시아, 지중해, 유럽 세계의 형성과 발전",
+          "title": "고대 그리스 세계의 형성과 발전",
+          "page": 46
+        },
+        {
+          "id": "visang-world-history-topic-09",
+          "order": 9,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "03 서아시아, 지중해, 유럽 세계의 형성과 발전",
+          "title": "로마 제국의 발전",
+          "page": 50
+        },
+        {
+          "id": "visang-world-history-topic-10",
+          "order": 10,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "03 서아시아, 지중해, 유럽 세계의 형성과 발전",
+          "title": "서유럽 봉건 사회의 형성",
+          "page": 53
+        },
+        {
+          "id": "visang-world-history-topic-11",
+          "order": 11,
+          "unit": "Ⅰ 지역 세계의 형성",
+          "group": "03 서아시아, 지중해, 유럽 세계의 형성과 발전",
+          "title": "십자군 전쟁과 중세 유럽의 동요",
+          "page": 57
+        },
+        {
+          "id": "visang-world-history-topic-12",
+          "order": 12,
+          "unit": "Ⅱ 교역망의 확대",
+          "group": "01 이슬람 세계와 몽골 제국의 팽창",
+          "title": "이슬람 세계의 확대",
+          "page": 69
+        },
+        {
+          "id": "visang-world-history-topic-13",
+          "order": 13,
+          "unit": "Ⅱ 교역망의 확대",
+          "group": "01 이슬람 세계와 몽골 제국의 팽창",
+          "title": "송의 발전과 몽골의 팽창",
+          "page": 71
+        },
+        {
+          "id": "visang-world-history-topic-14",
+          "order": 14,
+          "unit": "Ⅱ 교역망의 확대",
+          "group": "01 이슬람 세계와 몽골 제국의 팽창",
+          "title": "유라시아 세계의 통합",
+          "page": 76
+        },
+        {
+          "id": "visang-world-history-topic-15",
+          "order": 15,
+          "unit": "Ⅱ 교역망의 확대",
+          "group": "02 신항로 개척과 재정, 군사 국가",
+          "title": "유럽의 신항로 개척",
+          "page": 81
+        },
+        {
+          "id": "visang-world-history-topic-16",
+          "order": 16,
+          "unit": "Ⅱ 교역망의 확대",
+          "group": "02 신항로 개척과 재정, 군사 국가",
+          "title": "유럽의 재정, 군사 국가",
+          "page": 84
+        },
+        {
+          "id": "visang-world-history-topic-17",
+          "order": 17,
+          "unit": "Ⅱ 교역망의 확대",
+          "group": "03 세계 교역망의 통합",
+          "title": "세계적 상품 교역",
+          "page": 91
+        },
+        {
+          "id": "visang-world-history-topic-18",
+          "order": 18,
+          "unit": "Ⅱ 교역망의 확대",
+          "group": "03 세계 교역망의 통합",
+          "title": "세계적 상품 교역의 영향",
+          "page": 96
+        },
+        {
+          "id": "visang-world-history-topic-19",
+          "order": 19,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "01 청, 무굴 제국, 오스만 제국의 형성과 발전",
+          "title": "명, 청 제국과 동아시아 세계",
+          "page": 107
+        },
+        {
+          "id": "visang-world-history-topic-20",
+          "order": 20,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "01 청, 무굴 제국, 오스만 제국의 형성과 발전",
+          "title": "무굴 제국",
+          "page": 112
+        },
+        {
+          "id": "visang-world-history-topic-21",
+          "order": 21,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "01 청, 무굴 제국, 오스만 제국의 형성과 발전",
+          "title": "오스만 제국",
+          "page": 114
+        },
+        {
+          "id": "visang-world-history-topic-22",
+          "order": 22,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "02 시민 혁명과 시민 사회의 형성",
+          "title": "과학과 근대 사상의 발전",
+          "page": 119
+        },
+        {
+          "id": "visang-world-history-topic-23",
+          "order": 23,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "02 시민 혁명과 시민 사회의 형성",
+          "title": "영국 혁명",
+          "page": 121
+        },
+        {
+          "id": "visang-world-history-topic-24",
+          "order": 24,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "02 시민 혁명과 시민 사회의 형성",
+          "title": "미국 혁명",
+          "page": 122
+        },
+        {
+          "id": "visang-world-history-topic-25",
+          "order": 25,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "02 시민 혁명과 시민 사회의 형성",
+          "title": "프랑스 혁명",
+          "page": 124
+        },
+        {
+          "id": "visang-world-history-topic-26",
+          "order": 26,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "02 시민 혁명과 시민 사회의 형성",
+          "title": "자유주의와 민족주의",
+          "page": 129
+        },
+        {
+          "id": "visang-world-history-topic-27",
+          "order": 27,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "03 산업 혁명과 제국주의",
+          "title": "산업 혁명의 전개와 영향",
+          "page": 135
+        },
+        {
+          "id": "visang-world-history-topic-28",
+          "order": 28,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "03 산업 혁명과 제국주의",
+          "title": "제국주의의 확산",
+          "page": 140
+        },
+        {
+          "id": "visang-world-history-topic-29",
+          "order": 29,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "04 국민 국가 건설 운동",
+          "title": "동아시아의 개항과 민족 운동",
+          "page": 147
+        },
+        {
+          "id": "visang-world-history-topic-30",
+          "order": 30,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "04 국민 국가 건설 운동",
+          "title": "인도와 동남아시아의 민족 운동",
+          "page": 153
+        },
+        {
+          "id": "visang-world-history-topic-31",
+          "order": 31,
+          "unit": "Ⅲ 국민 국가의 형성",
+          "group": "04 국민 국가 건설 운동",
+          "title": "서아시아와 아프리카의 민족 운동",
+          "page": 156
+        },
+        {
+          "id": "visang-world-history-topic-32",
+          "order": 32,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "01 제1, 2차 세계 대전",
+          "title": "제1차 세계 대전",
+          "page": 165
+        },
+        {
+          "id": "visang-world-history-topic-33",
+          "order": 33,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "01 제1, 2차 세계 대전",
+          "title": "제1차 세계 대전 후의 세계",
+          "page": 168
+        },
+        {
+          "id": "visang-world-history-topic-34",
+          "order": 34,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "01 제1, 2차 세계 대전",
+          "title": "제2차 세계 대전",
+          "page": 171
+        },
+        {
+          "id": "visang-world-history-topic-35",
+          "order": 35,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "01 제1, 2차 세계 대전",
+          "title": "전쟁의 새로운 양상과 평화를 위한 노력",
+          "page": 174
+        },
+        {
+          "id": "visang-world-history-topic-36",
+          "order": 36,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "02 냉전과 탈냉전",
+          "title": "냉전 체제의 성립과 전개",
+          "page": 181
+        },
+        {
+          "id": "visang-world-history-topic-37",
+          "order": 37,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "02 냉전과 탈냉전",
+          "title": "탈냉전과 새로운 국제 질서의 형성",
+          "page": 186
+        },
+        {
+          "id": "visang-world-history-topic-38",
+          "order": 38,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "03 현대 세계의 과제와 인류의 노력",
+          "title": "인권과 민주주의를 위한 노력",
+          "page": 195
+        },
+        {
+          "id": "visang-world-history-topic-39",
+          "order": 39,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "03 현대 세계의 과제와 인류의 노력",
+          "title": "평화를 위한 노력",
+          "page": 197
+        },
+        {
+          "id": "visang-world-history-topic-40",
+          "order": 40,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "03 현대 세계의 과제와 인류의 노력",
+          "title": "경제적 불평등을 해결하려는 노력",
+          "page": 199
+        },
+        {
+          "id": "visang-world-history-topic-41",
+          "order": 41,
+          "unit": "Ⅳ 현대 세계의 과제",
+          "group": "03 현대 세계의 과제와 인류의 노력",
+          "title": "생태환경 문제를 해결하려는 노력",
+          "page": 200
+        }
+      ]
+    }
+  },
+  "modern-world-history": {
+    "visang": {
+      "title": "비상 역사로 탐구하는 현대 세계",
+      "topics": [
+        {
+          "id": "visang-modern-world-history-topic-01",
+          "order": 1,
+          "unit": "Ⅰ 현대 세계와 역사 탐구",
+          "group": "01 현대 세계의 이해와 형성",
+          "title": "현대 세계의 이해",
+          "page": 8
+        },
+        {
+          "id": "visang-modern-world-history-topic-02",
+          "order": 2,
+          "unit": "Ⅰ 현대 세계와 역사 탐구",
+          "group": "01 현대 세계의 이해와 형성",
+          "title": "현대 세계의 형성",
+          "page": 10
+        },
+        {
+          "id": "visang-modern-world-history-topic-03",
+          "order": 3,
+          "unit": "Ⅰ 현대 세계와 역사 탐구",
+          "group": "02 현대 세계의 과제와 역사 탐구",
+          "title": "현대 세계와 역사 탐구의 방법",
+          "page": 18
+        },
+        {
+          "id": "visang-modern-world-history-topic-04",
+          "order": 4,
+          "unit": "Ⅰ 현대 세계와 역사 탐구",
+          "group": "02 현대 세계의 과제와 역사 탐구",
+          "title": "현대 세계의 과제와 해결 방안의 모색",
+          "page": 20
+        },
+        {
+          "id": "visang-modern-world-history-topic-05",
+          "order": 5,
+          "unit": "Ⅱ 냉전과 열전",
+          "group": "01 전쟁 범죄와 국제 사회",
+          "title": "전쟁 범죄와 전범 재판",
+          "page": 30
+        },
+        {
+          "id": "visang-modern-world-history-topic-06",
+          "order": 6,
+          "unit": "Ⅱ 냉전과 열전",
+          "group": "01 전쟁 범죄와 국제 사회",
+          "title": "평화와 인권을 위한 국제 사회의 노력",
+          "page": 34
+        },
+        {
+          "id": "visang-modern-world-history-topic-07",
+          "order": 7,
+          "unit": "Ⅱ 냉전과 열전",
+          "group": "02 냉전 체제와 열전",
+          "title": "냉전 체제의 전개",
+          "page": 42
+        },
+        {
+          "id": "visang-modern-world-history-topic-08",
+          "order": 8,
+          "unit": "Ⅱ 냉전과 열전",
+          "group": "02 냉전 체제와 열전",
+          "title": "냉전 시기 열전의 전개와 전쟁 경험",
+          "page": 46
+        },
+        {
+          "id": "visang-modern-world-history-topic-09",
+          "order": 9,
+          "unit": "Ⅱ 냉전과 열전",
+          "group": "03 전쟁의 기억",
+          "title": "전쟁을 기억하는 다양한 방식",
+          "page": 56
+        },
+        {
+          "id": "visang-modern-world-history-topic-10",
+          "order": 10,
+          "unit": "Ⅱ 냉전과 열전",
+          "group": "03 전쟁의 기억",
+          "title": "전쟁을 기억하는 다양한 시설",
+          "page": 60
+        },
+        {
+          "id": "visang-modern-world-history-topic-11",
+          "order": 11,
+          "unit": "Ⅲ 성장의 풍요와 생태환경",
+          "group": "01 세계 경제 성장과 과학 기술",
+          "title": "세계 경제의 성장",
+          "page": 70
+        },
+        {
+          "id": "visang-modern-world-history-topic-12",
+          "order": 12,
+          "unit": "Ⅲ 성장의 풍요와 생태환경",
+          "group": "01 세계 경제 성장과 과학 기술",
+          "title": "과학 기술의 발전과 확산",
+          "page": 74
+        },
+        {
+          "id": "visang-modern-world-history-topic-13",
+          "order": 13,
+          "unit": "Ⅲ 성장의 풍요와 생태환경",
+          "group": "02 대중 소비 사회와 생태환경 문제",
+          "title": "대중 소비 사회의 형성",
+          "page": 82
+        },
+        {
+          "id": "visang-modern-world-history-topic-14",
+          "order": 14,
+          "unit": "Ⅲ 성장의 풍요와 생태환경",
+          "group": "02 대중 소비 사회와 생태환경 문제",
+          "title": "생태환경 문제와 해결 노력",
+          "page": 88
+        },
+        {
+          "id": "visang-modern-world-history-topic-15",
+          "order": 15,
+          "unit": "Ⅲ 성장의 풍요와 생태환경",
+          "group": "03 기후변화 협약",
+          "title": "기후변화 협약 체결",
+          "page": 96
+        },
+        {
+          "id": "visang-modern-world-history-topic-16",
+          "order": 16,
+          "unit": "Ⅲ 성장의 풍요와 생태환경",
+          "group": "03 기후변화 협약",
+          "title": "기후변화에 따른 대응",
+          "page": 102
+        },
+        {
+          "id": "visang-modern-world-history-topic-17",
+          "order": 17,
+          "unit": "Ⅳ 분쟁과 갈등, 화해의 역사",
+          "group": "01 탈냉전 이후 국제 분쟁",
+          "title": "국제 분쟁의 원인과 전개 양상",
+          "page": 112
+        },
+        {
+          "id": "visang-modern-world-history-topic-18",
+          "order": 18,
+          "unit": "Ⅳ 분쟁과 갈등, 화해의 역사",
+          "group": "01 탈냉전 이후 국제 분쟁",
+          "title": "국제 분쟁과 무력 갈등의 해결 노력",
+          "page": 120
+        },
+        {
+          "id": "visang-modern-world-history-topic-19",
+          "order": 19,
+          "unit": "Ⅳ 분쟁과 갈등, 화해의 역사",
+          "group": "02 제3 세계의 변화",
+          "title": "권위주의 체제가 형성된 제3 세계",
+          "page": 128
+        },
+        {
+          "id": "visang-modern-world-history-topic-20",
+          "order": 20,
+          "unit": "Ⅳ 분쟁과 갈등, 화해의 역사",
+          "group": "02 제3 세계의 변화",
+          "title": "제3 세계의 변화와 갈등",
+          "page": 132
+        },
+        {
+          "id": "visang-modern-world-history-topic-21",
+          "order": 21,
+          "unit": "Ⅳ 분쟁과 갈등, 화해의 역사",
+          "group": "03 과거사 정리와 공동 역사",
+          "title": "과거사 정리를 위한 노력",
+          "page": 140
+        },
+        {
+          "id": "visang-modern-world-history-topic-22",
+          "order": 22,
+          "unit": "Ⅳ 분쟁과 갈등, 화해의 역사",
+          "group": "03 과거사 정리와 공동 역사",
+          "title": "공동 역사 교과서의 편찬",
+          "page": 146
+        },
+        {
+          "id": "visang-modern-world-history-topic-23",
+          "order": 23,
+          "unit": "Ⅴ 도전받는 현대 세계",
+          "group": "01 경제의 세계화",
+          "title": "경제의 세계화와 변화 양상",
+          "page": 154
+        },
+        {
+          "id": "visang-modern-world-history-topic-24",
+          "order": 24,
+          "unit": "Ⅴ 도전받는 현대 세계",
+          "group": "01 경제의 세계화",
+          "title": "경제의 세계화에 따른 문제",
+          "page": 158
+        },
+        {
+          "id": "visang-modern-world-history-topic-25",
+          "order": 25,
+          "unit": "Ⅴ 도전받는 현대 세계",
+          "group": "02 다문화 사회",
+          "title": "다문화 사회의 형성과 진전",
+          "page": 164
+        },
+        {
+          "id": "visang-modern-world-history-topic-26",
+          "order": 26,
+          "unit": "Ⅴ 도전받는 현대 세계",
+          "group": "02 다문화 사회",
+          "title": "다문화 사회에서의 갈등 해결 노력",
+          "page": 168
+        },
+        {
+          "id": "visang-modern-world-history-topic-27",
+          "order": 27,
+          "unit": "Ⅴ 도전받는 현대 세계",
+          "group": "03 문화 다양성과 국제 규범",
+          "title": "문화 다양성 논쟁의 배경과 과정",
+          "page": 176
+        },
+        {
+          "id": "visang-modern-world-history-topic-28",
+          "order": 28,
+          "unit": "Ⅴ 도전받는 현대 세계",
+          "group": "03 문화 다양성과 국제 규범",
+          "title": "문화 다양성과 국제 규범",
+          "page": 180
+        }
+      ]
+    },
+    "haenaem": {
+      "title": "해냄에듀 역사로 탐구하는 현대 세계",
+      "topics": [
+        {
+          "id": "haenaem-modern-world-history-topic-01",
+          "order": 1,
+          "unit": "프롤로그 현대 세계와 역사 탐구",
+          "group": "01 우리 삶의 터전, 현대 세계",
+          "title": "스마트폰, 삶과 사회를 바꾸다",
+          "page": 9
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-02",
+          "order": 2,
+          "unit": "프롤로그 현대 세계와 역사 탐구",
+          "group": "01 우리 삶의 터전, 현대 세계",
+          "title": "현대 세계를 상징하는 물건들",
+          "page": 12
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-03",
+          "order": 3,
+          "unit": "프롤로그 현대 세계와 역사 탐구",
+          "group": "02 현대 세계는 어떻게 등장했을까?",
+          "title": "현재가 묻고 과거가 답하다",
+          "page": 15
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-04",
+          "order": 4,
+          "unit": "프롤로그 현대 세계와 역사 탐구",
+          "group": "02 현대 세계는 어떻게 등장했을까?",
+          "title": "다섯 주제로 읽는 현대 세계의 형성",
+          "page": 18
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-05",
+          "order": 5,
+          "unit": "프롤로그 현대 세계와 역사 탐구",
+          "group": "03 지구의 미래를 위해, 지금 무엇을 해야 할까?",
+          "title": "지구 행성 대토론회, 오늘날의 해결 과제를 찾아라",
+          "page": 29
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-06",
+          "order": 6,
+          "unit": "프롤로그 현대 세계와 역사 탐구",
+          "group": "03 지구의 미래를 위해, 지금 무엇을 해야 할까?",
+          "title": "현대 세계의 과제, 어떻게 탐구할까?",
+          "page": 32
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-07",
+          "order": 7,
+          "unit": "Ⅰ 냉전과 열전",
+          "group": "01 전후 평화를 위한 국제적 노력과 한계",
+          "title": "인권과 평화를 위한 국제적 노력과 한계는 무엇이었을까?",
+          "page": 41
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-08",
+          "order": 8,
+          "unit": "Ⅰ 냉전과 열전",
+          "group": "01 전후 평화를 위한 국제적 노력과 한계",
+          "title": "새로운 정의와 인권의 기준은 누가, 어떻게 만들었을까?",
+          "page": 44
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-09",
+          "order": 9,
+          "unit": "Ⅰ 냉전과 열전",
+          "group": "01 전후 평화를 위한 국제적 노력과 한계",
+          "title": "현대 세계의 평화와 인권은 어떠한 위협을 받고 있을까?",
+          "page": 48
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-10",
+          "order": 10,
+          "unit": "Ⅰ 냉전과 열전",
+          "group": "02 냉전 시기 열전의 전개",
+          "title": "냉전 시기 동아시아 열전의 배경과 특징은 무엇일까?",
+          "page": 53
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-11",
+          "order": 11,
+          "unit": "Ⅰ 냉전과 열전",
+          "group": "02 냉전 시기 열전의 전개",
+          "title": "동아시아 열전은 어떤 피해를 가져왔을까?",
+          "page": 56
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-12",
+          "order": 12,
+          "unit": "Ⅰ 냉전과 열전",
+          "group": "02 냉전 시기 열전의 전개",
+          "title": "냉전 시기 동아시아 열전이 우리에게 남긴 것은 무엇일까?",
+          "page": 60
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-13",
+          "order": 13,
+          "unit": "Ⅰ 냉전과 열전",
+          "group": "03 기념 시설로 만나는 역사",
+          "title": "제2차 세계 대전 이후 전쟁과 학살은 어떻게 기억되어 왔을까?",
+          "page": 67
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-14",
+          "order": 14,
+          "unit": "Ⅰ 냉전과 열전",
+          "group": "03 기념 시설로 만나는 역사",
+          "title": "세계 각국은 국가 폭력을 어떤 방식으로 기억하고 있을까?",
+          "page": 70
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-15",
+          "order": 15,
+          "unit": "Ⅰ 냉전과 열전",
+          "group": "03 기념 시설로 만나는 역사",
+          "title": "기념 조형물을 둘러싼 갈등은 어떻게 진행되고 있는가?",
+          "page": 74
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-16",
+          "order": 16,
+          "unit": "Ⅱ 성장의 풍요와 생태환경",
+          "group": "04 세계 경제의 성장과 기술 발전",
+          "title": "경제 성장과 과학기술 발전은 인류에게 어떤 변화를 주었을까?",
+          "page": 83
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-17",
+          "order": 17,
+          "unit": "Ⅱ 성장의 풍요와 생태환경",
+          "group": "04 세계 경제의 성장과 기술 발전",
+          "title": "과학기술 발전은 우리 삶에 긍정적인 영향만을 주었을까?",
+          "page": 86
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-18",
+          "order": 18,
+          "unit": "Ⅱ 성장의 풍요와 생태환경",
+          "group": "04 세계 경제의 성장과 기술 발전",
+          "title": "대중 소비 사회에서 우리가 얻은 것과 놓친 것은 무엇일까?",
+          "page": 90
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-19",
+          "order": 19,
+          "unit": "Ⅱ 성장의 풍요와 생태환경",
+          "group": "05 대중 소비 사회와 생태환경 문제",
+          "title": "대중 소비 사회에서 생태환경 문제가 발생한 이유는 무엇일까?",
+          "page": 95
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-20",
+          "order": 20,
+          "unit": "Ⅱ 성장의 풍요와 생태환경",
+          "group": "05 대중 소비 사회와 생태환경 문제",
+          "title": "대중 소비 사회와 생태환경 문제는 어떻게 연결될까?",
+          "page": 98
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-21",
+          "order": 21,
+          "unit": "Ⅱ 성장의 풍요와 생태환경",
+          "group": "05 대중 소비 사회와 생태환경 문제",
+          "title": "지속가능한 발전은 무엇이며 어떻게 가능할까?",
+          "page": 102
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-22",
+          "order": 22,
+          "unit": "Ⅱ 성장의 풍요와 생태환경",
+          "group": "06 기후변화 협약으로 만나는 역사",
+          "title": "기후변화 협약을 위한 국제적 노력은 어떻게 전개되었을까?",
+          "page": 107
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-23",
+          "order": 23,
+          "unit": "Ⅱ 성장의 풍요와 생태환경",
+          "group": "06 기후변화 협약으로 만나는 역사",
+          "title": "기후변화 협약을 둘러싼 불편한 진실은 무엇일까?",
+          "page": 110
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-24",
+          "order": 24,
+          "unit": "Ⅱ 성장의 풍요와 생태환경",
+          "group": "06 기후변화 협약으로 만나는 역사",
+          "title": "청소년 기후 프로젝트 제안하기",
+          "page": 114
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-25",
+          "order": 25,
+          "unit": "Ⅲ 분쟁과 갈등, 화해의 역사",
+          "group": "07 탈냉전 이후의 국제 분쟁과 무력 갈등",
+          "title": "냉전 체제의 변화는 국제 분쟁과 갈등에 어떤 영향을 미쳤을까?",
+          "page": 123
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-26",
+          "order": 26,
+          "unit": "Ⅲ 분쟁과 갈등, 화해의 역사",
+          "group": "07 탈냉전 이후의 국제 분쟁과 무력 갈등",
+          "title": "국제 분쟁과 무력 갈등이 지속되는 이유는 무엇일까?",
+          "page": 126
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-27",
+          "order": 27,
+          "unit": "Ⅲ 분쟁과 갈등, 화해의 역사",
+          "group": "07 탈냉전 이후의 국제 분쟁과 무력 갈등",
+          "title": "국제 분쟁과 무력 갈등에서 국제기구는 어떤 역할을 해야 할까?",
+          "page": 130
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-28",
+          "order": 28,
+          "unit": "Ⅲ 분쟁과 갈등, 화해의 역사",
+          "group": "08 권위주의 체제의 변동과 갈등",
+          "title": "제3 세계의 권위주의 체제는 어떻게 변화하였나?",
+          "page": 135
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-29",
+          "order": 29,
+          "unit": "Ⅲ 분쟁과 갈등, 화해의 역사",
+          "group": "08 권위주의 체제의 변동과 갈등",
+          "title": "권위주의 체제의 변동 과정에서 지역 분쟁은 왜 계속되었을까?",
+          "page": 138
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-30",
+          "order": 30,
+          "unit": "Ⅲ 분쟁과 갈등, 화해의 역사",
+          "group": "08 권위주의 체제의 변동과 갈등",
+          "title": "탈냉전 이후 권위주의 체제의 변동은 어떤 갈등을 발생시켰는가?",
+          "page": 142
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-31",
+          "order": 31,
+          "unit": "Ⅲ 분쟁과 갈등, 화해의 역사",
+          "group": "09 역사 정책으로 만나는 역사",
+          "title": "과거사 정리를 위한 역사 정책은 왜, 어떻게 전개되었을까?",
+          "page": 147
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-32",
+          "order": 32,
+          "unit": "Ⅲ 분쟁과 갈등, 화해의 역사",
+          "group": "09 역사 정책으로 만나는 역사",
+          "title": "과거사 정리를 시도하는 과정에서 어떤 어려움에 부딪혔을까?",
+          "page": 150
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-33",
+          "order": 33,
+          "unit": "Ⅲ 분쟁과 갈등, 화해의 역사",
+          "group": "09 역사 정책으로 만나는 역사",
+          "title": "역사 부정과 트라우마의 문제, 어떻게 대처할까?",
+          "page": 154
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-34",
+          "order": 34,
+          "unit": "Ⅳ 도전받는 현대 세계",
+          "group": "10 경제의 세계화와 불평등의 심화",
+          "title": "세계화는 어떻게 전개되었는가?",
+          "page": 163
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-35",
+          "order": 35,
+          "unit": "Ⅳ 도전받는 현대 세계",
+          "group": "10 경제의 세계화와 불평등의 심화",
+          "title": "세계화는 여러 지역 사람들에게 어떤 모습으로 다가갔을까?",
+          "page": 166
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-36",
+          "order": 36,
+          "unit": "Ⅳ 도전받는 현대 세계",
+          "group": "10 경제의 세계화와 불평등의 심화",
+          "title": "세계화로 인한 위기를 어떻게 이해할까?",
+          "page": 170
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-37",
+          "order": 37,
+          "unit": "Ⅳ 도전받는 현대 세계",
+          "group": "11 다문화 사회로의 진전과 갈등",
+          "title": "다문화 사회는 어떻게 형성되었고, 어떠한 도전을 받고 있는가?",
+          "page": 175
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-38",
+          "order": 38,
+          "unit": "Ⅳ 도전받는 현대 세계",
+          "group": "11 다문화 사회로의 진전과 갈등",
+          "title": "세계는 다문화 사회의 차별 논란에 어떻게 대처하고 있을까?",
+          "page": 178
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-39",
+          "order": 39,
+          "unit": "Ⅳ 도전받는 현대 세계",
+          "group": "11 다문화 사회로의 진전과 갈등",
+          "title": "세계는 다문화 사회의 차별 문제 해결을 위해 어떤 노력을 기울여왔을까?",
+          "page": 182
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-40",
+          "order": 40,
+          "unit": "Ⅳ 도전받는 현대 세계",
+          "group": "12 문화 다양성을 위한 국제 규범의 형성",
+          "title": "문화적 권리와 문화 다양성을 위한 노력은 어떻게 전개되었을까?",
+          "page": 187
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-41",
+          "order": 41,
+          "unit": "Ⅳ 도전받는 현대 세계",
+          "group": "12 문화 다양성을 위한 국제 규범의 형성",
+          "title": "문화 다양성을 둘러싼 사회적 논쟁의 사례는 무엇이고 왜 발생하였을까?",
+          "page": 190
+        },
+        {
+          "id": "haenaem-modern-world-history-topic-42",
+          "order": 42,
+          "unit": "Ⅳ 도전받는 현대 세계",
+          "group": "12 문화 다양성을 위한 국제 규범의 형성",
+          "title": "문화 다양성 선언은 우리에게 어떤 의미가 있을까?",
+          "page": 194
+        }
+      ]
+    }
+  }
+}
