@@ -2,9 +2,6 @@
   "name": "chrono-nexus-korean-history",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": ">=22.13.0"
-  },
   "scripts": {
     "install:ci": "bash scripts/install-ci.sh",
     "dev": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vite",
